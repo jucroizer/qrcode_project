@@ -12,8 +12,8 @@ This project is a simple and polished landing page built with HTML and CSS, insp
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://jucroizer.github.io/qrcode_project/)
-- Live Site URL: [Add your live site URL here](https://jucroizer.github.io/qrcode_project/)
+- Solution URL: [solution URL here](https://jucroizer.github.io/qrcode_project/)
+- Live Site URL: [live site URL here](https://jucroizer.github.io/qrcode_project/)
 
 ## My process
 
